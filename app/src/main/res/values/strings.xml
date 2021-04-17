@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FiBa Test 1</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mật khẩu</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="invalid_password">Mật khẩu phải lớn hơn 5 ký tự</string>
+    <string name="login_failed">"Đăng nhập thất bại"</string>
+    <string name="login_successfully">Đăng nhập thành công</string>
+
+    <string name="remember_pass">Nhớ mật khẩu ?</string>
+    <string name="forget_pass">Quên mật khẩu ?</string>
+    <string name="no_account">Chưa có tài khoản ?</string>
+    <string name="register">Đăng ký</string>
+    <string name="barchart">Horizontal-BarChart</string>
+    <string name="qrcode">Qr Code Scan</string>
+    <string name="firebase">Firebase</string>
+    <string name="weather">Weather</string>
+
+    <string name="empty_email">Email trống</string>
+    <string name="empty_pass">Mật khẩu trống</string>
+    <string name="empty_pass_and_email">Email và mật khẩu trống</string>
+    <string name="login_error">Lỗi đăng nhập</string>
+    <string name="email_pass_error">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="list_company">Danh sách công ty</string>
+    <string name="list_company_2">Chọn đơn vị</string>
+
+    <string name="current_user">Current User</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="language">Language:</string>
+    <string name="time_zone">Time Zone:</string>
+    <string name="order_list">Lst_Ord_OrderDL</string>
+
+    <string name="UserCodeOwner">User Code Owner:</string>
+    <string name="OrderNo">Order No:</string>
+    <string name="CustomerName">Customer Name:</string>
+    <string name="CustomerContactName">Customer Contact Name:</string>
+    <string name="CustomerAreaName">Customer Area Name:</string>
+    <string name="TotalValOrderAppr">Total Val Order Appr:</string>
+    <string name="TotalValRemain">Total Val Remain:</string>
+    <string name="CreateDTimeUTC">Create DTime UTC:</string>
+    <string name="CancelDTimeUTC">Cancel DTime UTC:</string>
+    <string name="OrderStatus">Order Status:</string>
+    <string name="DeliverStatus">Deliver Status:</string>
+
+    <string name="sample_text">What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry Lorem Ipsum has been the industrys standard dummy text</string>
+    <string name="title">Tiêu đề <font color='#ff0000'>*</font></string>
+
+    <string name="default_notification_channel_id">CLOUD_MESSAGING_ID</string>
+    <string name="msg_token_fmt">Token: %s</string>
+    <string name="token_error">GeFetching FCM registration token failed</string>
+
+</resources>

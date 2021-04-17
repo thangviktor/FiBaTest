@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605268071305",
+    "project_id": "fiba-test-1-aeee1",
+    "storage_bucket": "fiba-test-1-aeee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605268071305:android:623763400b311fb8a70758",
+        "android_client_info": {
+          "package_name": "com.j.fibatest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605268071305-rtb2kr78sejq7vsnpfc6399vf0j5svj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaW_MCaMEFHZ8BTV4GbV8PLiChCvk6G80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605268071305-rtb2kr78sejq7vsnpfc6399vf0j5svj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
